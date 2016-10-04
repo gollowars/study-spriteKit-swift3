@@ -1,5 +1,5 @@
-# 3日目 Playgroundでスプライトアニメーション
-SpriteKitのクラスの機能を学ぶ時にいちいちXcodeのプロジェクトを作るのはしんどい。   
+# 2日目 Playgroundでスプライトアニメーション
+SpriteKitのちょっとした機能を学ぶ時にいちいちXcodeのプロジェクトを作るのはしんどい。   
 ということで、ちょっとした機能の確認はPlaygroundでやっていこう。うむ。
 
  - とりあえずPlaygroundでSKSceneを表示させる
