@@ -1,5 +1,6 @@
 # SpriteKit Particle
 
+![SpriteKit Particle](readmeResouces/image.png)
 
 ## Create particle from sks file
 

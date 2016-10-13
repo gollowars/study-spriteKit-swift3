@@ -1,6 +1,8 @@
 # SKShader
 さてつぎはshaderの使い方や！
-くそ楽だった。
+くそ楽だった!
+
+![SKShader Example](images/readme_00.png)
 
 ```Swift
 //: Playground - noun: a place where people can play
