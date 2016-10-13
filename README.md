@@ -41,6 +41,8 @@
           ├── SpriteKitの勉強
               ├── SKView,SKSceneの使い方 [1日目 SpriteKitの雰囲気を感じる]
               ├── スプライトアニメーション [2日目 Playgroundでスプライトアニメーション]
+              ├── パーティクル [3日目 sksファイルを利用してParticleを生成]
+              ├── SKShader [4日目 SKShader試してみる。]
       ├── キャラクターデザイン
       ├── サウンド制作
       └── シナリオ制作
