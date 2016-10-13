@@ -5,6 +5,8 @@
  - 0日目 勉強の道筋
  - [1日目 SpriteKitの雰囲気を感じる](./day1/README.md)
  - [2日目 Playgroundでスプライトアニメーション](./day2/README.md)
+ - [3日目 SpriteKit Particle](./day3/README.md)
+ - [4日目 SKShader](./day4/README.md)
 
 # 0日目 勉強の道筋
   - 概要
