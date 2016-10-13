@@ -3,10 +3,10 @@
 2DGame作りの勉強
 
  - 0日目 勉強の道筋
- - [1日目 SpriteKitの雰囲気を感じる](./day1/README.md)
- - [2日目 Playgroundでスプライトアニメーション](./day2/README.md)
- - [3日目 SpriteKit Particle](./day3/README.md)
- - [4日目 SKShader](./day4/README.md)
+ - [1日目 SpriteKitの雰囲気を感じる](https://github.com/gollowars/study-spriteKit-swift3/tree/master/day1)
+ - [2日目 Playgroundでスプライトアニメーション](https://github.com/gollowars/study-spriteKit-swift3/tree/master/day2)
+ - [3日目 SpriteKit Particle](https://github.com/gollowars/study-spriteKit-swift3/tree/master/day3)
+ - [4日目 SKShader](https://github.com/gollowars/study-spriteKit-swift3/tree/master/day4)
 
 # 0日目 勉強の道筋
   - 概要
