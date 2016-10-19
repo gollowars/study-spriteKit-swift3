@@ -1,4 +1,4 @@
-# iOS Game Study
+# iOS Game Study with Swift3
 
 2DGame作りの勉強
 
