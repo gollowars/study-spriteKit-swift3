@@ -8,6 +8,8 @@
  - [3日目 SpriteKit Particle](https://github.com/gollowars/study-spriteKit-swift3/tree/master/day3)
  - [4日目 SKShader](https://github.com/gollowars/study-spriteKit-swift3/tree/master/day4)
  - [5日目 図形描くのどうすんだ。 - SKShapeNode](https://github.com/gollowars/study-spriteKit-swift3/tree/master/day5)
+ - [6日目 物理エンジン](https://github.com/gollowars/study-spriteKit-swift3/tree/master/day6)
+ - [7日目 GKStateMachineでシーン管理](https://github.com/gollowars/study-spriteKit-swift3/tree/master/day7)
 
 # 0日目 勉強の道筋
   - 概要
@@ -47,7 +49,11 @@
               ├── パーティクル [3日目 sksファイルを利用してParticleを生成]
               ├── SKShader [4日目 SKShader試してみる。]
               ├── 図形描くのはどうすんだ。SKShapeNode[5日目 図形描くのどうすんだ。 - SKShapeNode]
-              ├── 物理エンジン [次回予定]
+              ├── 物理エンジン [6日目 PhysicsEngine]
+
+          ├── GamePlayKit
+              ├── GKStateMachineの使い方 [7日目 シーン管理]
+
       ├── キャラクターデザイン
       ├── サウンド制作
       └── シナリオ制作
