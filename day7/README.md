@@ -137,7 +137,6 @@ PlaygroundPage.current.liveView = gameView
 ```
 
 ## References
- - [Apple developer API Reference - SKPhysicsBody](https://developer.apple.com/reference/spritekit/skphysicsbody)
- - [Swift + Playgraoundメモ 2 – SpriteKitで物理シミュレーション](http://yoppa.org/blog/5477.html)
- - [Sprite Kitでブロック崩し](http://tnantoka.github.io/hello-spritekit/ja/)
- - [Sprite Kit 入門 - SKPhysicsBody](http://spritekit.senchan-office.com/index.php/skphysicsbody)
+ - [Apple developer API Reference - GKStateMachine](https://developer.apple.com/reference/gameplaykit/gkstatemachin)
+ - [Apple developer API Reference - GKState](https://developer.apple.com/reference/gameplaykit/gkstate)
+ - [SwiftでStateパターンを実現できるGKStateMachineを試してみる](http://llcc.hatenablog.com/entry/2015/12/19/225417)
